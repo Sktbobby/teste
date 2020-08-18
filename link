@@ -29,7 +29,7 @@ MODELO GDRIVE DE APENAS UM LINK
 
 <item>
 <title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/preview</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0BwbWQa2WH1tjWE5yYnY1c1FzYnM/view</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
